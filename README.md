@@ -2,6 +2,9 @@
 
 A Python tool for balancing chemical equations, including those with ionic charges.
 
+## About
+This project was developed as part of coursework for the Twente Pathway College. It implements a mathematical approach to balance chemical equations using matrix operations and Gaussian elimination.
+
 ## Features
 
 - Balances both regular and ionic chemical equations
@@ -59,4 +62,7 @@ Examples:
 - Python 3.x
 - NumPy
 - re (standard library)
-- fractions (standard library) 
+- fractions (standard library)
+
+## Academic Context
+This program is part of a chemistry project for the Twente Pathway College curriculum. It demonstrates the application of linear algebra to solve chemical balancing problems. 
